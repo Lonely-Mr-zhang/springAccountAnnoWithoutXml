@@ -1,6 +1,6 @@
 package io.github.lonelyMrZhang.test;
 
-import io.github.lonelyMrZhang.config.SpringConfiguration;
+import config.SpringConfiguration;
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

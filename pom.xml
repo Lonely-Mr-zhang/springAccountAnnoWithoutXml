@@ -41,6 +41,12 @@
             <version>RELEASE</version>
             <scope>test</scope>
         </dependency>
+        <!--导入Spring整合junit的jar-->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-test</artifactId>
+            <version>5.0.2.RELEASE</version>
+        </dependency>
     </dependencies>
 
 </project>
