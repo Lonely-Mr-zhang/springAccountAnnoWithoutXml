@@ -25,7 +25,7 @@ package config;
  *              当我们使用import的注解之后，有import注解的类是父配置类，导入的时子配置类
  * PropertySource
  *      作用：用于指定properties文件的位置
- *      书香：
+ *      属性：
  *          value:指定文件的名称和路径
  *              关键字：classpath，类路径下
  */
